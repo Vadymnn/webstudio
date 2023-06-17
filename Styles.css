@@ -1,0 +1,234 @@
++* {
+    margin: 0;
+    padding: 0;
+  }
+  .img {
+    width: 100px;
+  }
+  
+  .active {
+    background-color: blue;
+  }
+  
+  .minus {
+    color: yellow;
+  }
+  
+  .hero-heading {
+    /* Ефективні рішення для вашого бізнесу */
+
+
+position: absolute;
+width: 696px;
+height: 120px;
+left: 452px;
+top: 275px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+/* or 136% */
+
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+
+color: white;
+
+
+  }
+  
+  .contact-link {
+    position: absolute;
+    width: 45px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+  
+    color: #2196f3;
+  }
+
+  .hometi-kolo {
+    /* Студія */
+
+
+position: absolute;
+width: 45px;
+height: 16px;
+left: 453px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #2196F3;
+
+
+  }
+
+  .contact-mti {
+    /* +38 096 111 11 11 */
+
+
+position: absolute;
+width: 102px;
+height: 12px;
+left: 760px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 13px;
+letter-spacing: 0.0em;
+
+color: black;
+
+  }
+  .contact-item {
+    /* info@devstudio.com */
+
+
+position: absolute;
+width: 135px;
+height: 16px;
+left: 1078px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #2196F3;
+
+  }
+  .home-portfolio {
+    /* Портфоліо */
+
+
+position: absolute;
+width: 72px;
+height: 16px;
+left: 548px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+
+
+  }
+  .home-webstudio {
+    /* WebStudio */
+
+
+position: absolute;
+width: 145px;
+height: 31px;
+left: 215px;
+top: 24px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #2196F3;
+  }
+  .home-contacty {
+    /* Контакти */
+
+
+position: absolute;
+width: 64px;
+height: 16px;
+left: 670px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+
+  }
+  .home-posluga {
+    /* Замовити послугу */
+
+
+position: absolute;
+width: 152px;
+height: 30px;
+left: 724px;
+top: 440px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+
+color: white;
+
+
+  }
+.home-bg {
+    /* bg */
+
+position: absolute;
+width: 216px;
+height: 50px;
+left: 692px;
+top: 430px;
+
+background: #2196F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+}
+.img-2 {
+    /* Bg */
+
+
+position: absolute;
+width: 1600px;
+height: 600px;
+left: 0px;
+top: 80px;
+
+background: #2F303A;
+}
